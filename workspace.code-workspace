@@ -3,5 +3,11 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"notebook.dragAndDropEnabled": true,
+		"notebook.editorOptionsCustomizations": {},
+		"jupyter.interactiveWindow.notebookRepl": true,
+		"jupyter.interactiveWindow.codeLens.enable": true
+	}
 }
