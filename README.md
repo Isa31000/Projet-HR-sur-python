@@ -38,14 +38,16 @@ L’objectif est d’identifier les leviers d’action pour améliorer les perfo
 Le notebook produit plusieurs visualisations et un rapport graphique complet, exporté au format PDF et PNG. Ces supports facilitent l’interprétation des données par des profils non techniques.
 
 ## 📁 Fichiers
-- 'nettoyage_donnees.ipynb' : préparation des données
-- `data_processing.ipynb` : Code source du projet
-- 'dashboard.ipynb' : Visualisation du rapport
-- 'HRDataset.csv' : Fichier avec les données brutes
-- 'palette.png' : Palette de couleurs
-- `figures/` : Graphiques exportés (PNG et PDF)
-- `all_figures.pdf` : Rapport visuel complet
-- `README.md` : Présentation du projet
+
+- [`nettoyage_donnees.ipynb`](nettoyage_donnees.ipynb) : Préparation des données
+- [`data_processing.ipynb`](data_processing.ipynb) : Code source du projet
+- [`dashboard.ipynb`](dashboard.ipynb) : Visualisation du rapport
+- [`HRDataset.csv`](HRDataset.csv) : Données brutes
+- [`palette.png`](palette.png) : Palette de couleurs utilisée
+- [`figures/`](figures/) : Graphiques exportés (PNG et PDF)
+- [`figures/all_figures.pdf`](figures/all_figures.pdf) : Rapport visuel complet
+- [`README.md`](README.md) : Présentation du projet
+
 
 ## ⚙️ Technologies utilisées
 - Python (Pandas, Seaborn, Matplotlib, NumPy)
